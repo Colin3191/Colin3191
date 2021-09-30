@@ -2,7 +2,6 @@
 
 - ⚡ I’m currently as a frontEnd.
 - 💬 Ask me about ANYTHING.
-- 📫 How to reach me: see my Email.
 
 **Languages and Tools:**  
 
