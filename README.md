@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - ⚡ I’m currently as a frontEnd.
-- 💬 Ask me about ANYTHING.
 
 **Languages and Tools:**  
 
