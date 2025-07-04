@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I’m currently as a frontEnd.
+- ⚡ I’m currently working as a Frontend Developer.
 
 
 **Languages and Tools:**  
